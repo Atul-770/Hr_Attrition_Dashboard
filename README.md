@@ -27,5 +27,5 @@ This dashboard is designed to help **HR teams**:
 ## **Installation** ⚙️
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/hr-attrition-dashboard.git
+   [git clone https://github.com/your-username/hr-attrition-dashboard.git](https://github.com/Atul-770/Hr_Attrition_Dashboard.git)
 2. Open the .pbix file in Power BI to explore the dashboard.
